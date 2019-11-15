@@ -1,0 +1,7 @@
+backgorund-color
+
+background-image
+
+backgorund-position
+
+backgorund-repeat

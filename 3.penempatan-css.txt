@@ -1,0 +1,12 @@
+embed
+<style></style>
+
+inline
+<p style="property: value;"></p>
+
+external
+<link rel="stylesheet" href="style.css">
+
+
+
+

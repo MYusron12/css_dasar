@@ -1,0 +1,20 @@
+css adalah casceding style sheet
+
+css adalah mekanisme sederhana yang mengatur gaya atu style pada halaman web
+
+
+cascading style sheet
+-aturan yg digunaan untuk menampilkan element html
+-dibut terpisah dengan html
+-bertujuan untuk memisahkan konten dan style
+-1 css dapat diguakan dengan banyak html
+-1 halaman html dapat terlihat berbeda jika menggunakan css yang berbeda
+
+
+1 css dapat digunakan di banyak halaman
+style.css
+body { font-family: arial; }
+
+
+
+www.csszengarden.com

@@ -1,0 +1,20 @@
+/* komentar css */
+
+property pada text
+
+color
+memberi warna pada tulisan
+
+text-align
+mengatur format paragraf / teks
+
+text-indent
+memberi indentasi pada paragraf atau teks
+
+text-decoration
+mengatur dekorasi pada teks
+
+text-transform
+mengubah jenis huruf menjadi huruf besar, kecil /kapital
+
+

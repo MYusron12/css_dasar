@@ -1,0 +1,31 @@
+sintaks css
+selector { property: value; }
+
+
+contoh
+h1 { color: blue; }
+
+
+h1 {
+    font-family: "text-align";
+}
+
+
+selector
+-digunakan untuk memilih dan memanipulasi elemen spesifik pada HTML
+-element html dipilih berdasarkan tag, id, class bahkan pola patern.
+-semakin kompleks struktur html, selector juga bisa semakin kompleks
+
+
+
+h1 { color: blue; }
+css, pilih seluruh elemen h1, lalu ubah teks didalamnya menjadi berwarna biru
+
+
+
+property dan value
+ada 360 property css
+
+website untuk property css
+developer.mozilla.org/en-US/docs/Web/CSS/Reference
+css-tricks.com/almanac
